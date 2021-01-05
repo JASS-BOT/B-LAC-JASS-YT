@@ -48,7 +48,7 @@ https://t.me/B_LAC_OFFICAL_BOT
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/B-Lac/B-Lac-Userbot
-cd HellBot
+cd B LAC
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
